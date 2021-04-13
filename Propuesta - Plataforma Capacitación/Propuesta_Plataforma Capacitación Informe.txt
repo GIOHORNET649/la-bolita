@@ -1,0 +1,121 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Propuesta_Plataforma Capacitación.ai
+Modo de color: Color RGB
+Perfil de color: Adobe RGB (1998)
+Unidades de regla: centímetros
+Dimensiones de la mesa de trabajo: 68.9719 cm x 77.2721 cm
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Istok Web Bold Italic (TrueType)
+Istok Web Regular (TrueType)
+Istok Web Italic (TrueType)
+Istok Web Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\Logos\Variantes La Bolita\logo sin cola.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 7830K, 2291 por 875 píxeles
+Dimensiones: 204 por 77.914 puntos 
+Resolución: 808.588 por 808.588 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Downloads\Mano_1.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 29017K, 1895 por 3920 píxeles
+Dimensiones: 557.824 por 890.852 puntos 
+Resolución: 244.593 por 316.82 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\PNG´s\Terminal.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1142K, 515 por 568 píxeles
+Dimensiones: 478.732 por 528 puntos 
+Resolución: 77.455 por 77.455 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\Imagenes Descargadas\Imagenes General\group-people-working-out-business-plan-office.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 44048K, 4749 por 3166 píxeles
+Dimensiones: 1926 por 1284 puntos 
+Resolución: 177.533 por 177.533 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\Logos\Variantes La Bolita\LOGO.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 39368K, 4550 por 2215 píxeles
+Dimensiones: 457.736 por 222.832 puntos 
+Resolución: 715.696 por 715.696 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Downloads\Mano_1.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 29017K, 1895 por 3920 píxeles
+Dimensiones: 557.824 por 890.852 puntos 
+Resolución: 244.593 por 316.82 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\PNG´s\Terminal.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1142K, 515 por 568 píxeles
+Dimensiones: 478.732 por 528 puntos 
+Resolución: 77.455 por 77.455 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\Imagenes Descargadas\Imagenes General\group-people-working-out-business-plan-office.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 44048K, 4749 por 3166 píxeles
+Dimensiones: 1926 por 1284 puntos 
+Resolución: 177.533 por 177.533 píxeles por pulgada
+
+
+C:\Users\XAZAR-OSOTO\Desktop\Javier Loeza\BOLITA INFORMACIÓN BÁSICA\DON CUCO\Don_CUCO_Pose00004.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 54921K, 5000 por 2812 píxeles
+Dimensiones: 1609 por 904.902 puntos 
+Resolución: 223.741 por 223.741 píxeles por pulgada
